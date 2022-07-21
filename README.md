@@ -6,7 +6,7 @@ Built in .NET MAUI and used Azure AD for Auth Service. This sample only demonstr
 
 ##  MSAL Login
 <p align="center">
-    <img width="400" src="./screenshots/Start.png">
+    <img width="400" src="./screenshots/Start.gif">
 </p>
 
 ##  Existing Account Login
