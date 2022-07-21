@@ -16,5 +16,5 @@ Built in .NET MAUI and used Azure AD for Auth Service. This sample only demonstr
 
 
 ## Nugget Packages
-- `Microsoft.Identity.Client`
+- `Microsoft.Identity.Client` (Add Preview Version for Mac/IOS)
 - `System.IdentityModel.Tokens.Jwt`
